@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=HI%20Web&fontSize=100)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuYa0728&&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuYa0728&langs_count=10&layout=compact&theme=dark)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
