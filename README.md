@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![123](https://user-images.githubusercontent.com/91036360/136677194-d378ac16-32d9-45df-af48-8f4934b85513.gif)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=20Shuya%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Shuya&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuYa0728&&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuYa0728&langs_count=10&layout=compact&theme=dark)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})<br/>
