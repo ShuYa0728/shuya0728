@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuYa0728&langs_count=10&layout=compact&theme=dark)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})<br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?text=NO.1 Github Shuya &animation=scaleIn)
 
