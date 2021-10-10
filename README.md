@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shuya&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuYa0728&&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuYa0728&langs_count=10&layout=compact&theme=dark)<br/>
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">:book: Tech Stack :book:</h3>
 <p align="center"> 
   
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
