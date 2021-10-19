@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?text=NO.1GithubShuya&animation=scaleIn)
 ![123](https://user-images.githubusercontent.com/91036360/136677194-d378ac16-32d9-45df-af48-8f4934b85513.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuYa0728&&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuYa0728&langs_count=10&layout=compact&theme=dark)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuYa0728&langs_count=10&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuYa0728&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shuya&fontSize=90)
 <h3 align="center">:gem: Shuya Tech Stack :gem:</h3>
